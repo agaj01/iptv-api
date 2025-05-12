@@ -1,6 +1,9 @@
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
+CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
+CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
 CETV1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
 
 💰央视付费频道,#genre#
@@ -12,19 +15,50 @@ CETV1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+广东卫视,http://112.46.105.20:8009/hls/36/index.m3u8
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://112.46.105.20:8009/hls/34/index.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+湖南卫视,http://112.46.105.20:8009/hls/32/index.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://112.46.105.20:8009/hls/35/index.m3u8
+湖北卫视,http://112.46.105.20:8009/hls/39/index.m3u8
+黑龙江卫视,http://112.46.105.20:8009/hls/38/index.m3u8
+黑龙江卫视,http://39.150.96.141:65535/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
+安徽卫视,http://112.46.105.20:8009/hls/42/index.m3u8
+重庆卫视,http://112.46.105.20:8009/hls/43/index.m3u8
+东方卫视,http://112.46.105.20:8009/hls/31/index.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+东南卫视,http://112.46.105.20:8009/hls/45/index.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
+甘肃卫视,http://112.46.105.20:8009/hls/51/index.m3u8
+广西卫视,http://112.46.105.20:8009/hls/53/index.m3u8
+贵州卫视,http://112.46.105.20:8009/hls/50/index.m3u8
+河北卫视,http://112.46.105.20:8009/hls/55/index.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+吉林卫视,http://112.46.105.20:8009/hls/48/index.m3u8
+江苏卫视,http://112.46.105.20:8009/hls/33/index.m3u8
+江西卫视,http://112.46.105.20:8009/hls/47/index.m3u8
+辽宁卫视,http://112.46.105.20:8009/hls/54/index.m3u8
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+内蒙古卫视,http://112.46.105.20:8009/hls/60/index.m3u8
+宁夏卫视,http://112.46.105.20:8009/hls/52/index.m3u8
+青海卫视,http://112.46.105.20:8009/hls/58/index.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+山东卫视,http://112.46.105.20:8009/hls/40/index.m3u8
+山西卫视,http://112.46.105.20:8009/hls/49/index.m3u8
+四川卫视,http://112.46.105.20:8009/hls/41/index.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
+深圳卫视,http://112.46.105.20:8009/hls/37/index.m3u8
+天津卫视,http://112.46.105.20:8009/hls/44/index.m3u8
+西藏卫视,http://112.46.105.20:8009/hls/59/index.m3u8
+新疆卫视,http://112.46.105.20:8009/hls/61/index.m3u8
+云南卫视,http://112.46.105.20:8009/hls/56/index.m3u8
 
 ☘️河南频道,#genre#
 
 🕘️更新时间,#genre#
-2025-05-12 18:17:51,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-05-13 06:15:39,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
