@@ -1,4 +1,5 @@
 📺央视频道,#genre#
+CCTV-5,http://1b6467f415.iok.la:9931/tsfile/live/1025_1.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CETV1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
 
@@ -7,10 +8,9 @@ CETV1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
 📡卫视频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 
 ☘️河南频道,#genre#
 
 🕘️更新时间,#genre#
-2025-05-17 06:13:49,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+2025-05-17 18:15:26,http://1b6467f415.iok.la:9931/tsfile/live/1025_1.m3u8
