@@ -1,6 +1,5 @@
-Name: CCTV-13, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 73 ms, Speed: 30.22 M/s, Resolution: 1920x1080
-Name: CETV1, URL: http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv, IPv_Type: ipv4, Location: 中国-广东-湛江, ISP: 移动, Date: None, Delay: 10771 ms, Speed: 0.05 M/s, Resolution: None
-Name: 浙江卫视, URL: http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 75 ms, Speed: 10.58 M/s, Resolution: 1920x1080
-Name: 浙江卫视, URL: https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 10130 ms, Speed: 0.57 M/s, Resolution: 1920x1080
-Name: 浙江卫视, URL: http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 10985 ms, Speed: 0.54 M/s, Resolution: 1920x1080
-Name: 内蒙古卫视, URL: https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 1357 ms, Speed: 1.78 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 1933 ms, Speed: 1.12 M/s, Resolution: 1920x1080
+Name: CETV1, URL: http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv, IPv_Type: ipv4, Location: 中国-广东-湛江, ISP: 移动, Date: None, Delay: 10424 ms, Speed: 0.02 M/s, Resolution: None
+Name: 浙江卫视, URL: http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 1587 ms, Speed: 0.44 M/s, Resolution: 1920x1080
+Name: 浙江卫视, URL: http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 569 ms, Speed: 0.00 M/s, Resolution: None
+Name: 内蒙古卫视, URL: https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 2063 ms, Speed: 0.85 M/s, Resolution: 1920x1080
