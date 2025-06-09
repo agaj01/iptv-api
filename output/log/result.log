@@ -1,7 +1,6 @@
-Name: CCTV-4, URL: http://112.46.85.60:8009/hls/4/index.m3u8, IPv_Type: ipv4, Location: 中国-陕西-咸阳, ISP: 移动, Date: None, Delay: 1689 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-13, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 1996 ms, Speed: 1.11 M/s, Resolution: 1920x1080
-Name: CETV1, URL: http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv, IPv_Type: ipv4, Location: 中国-广东-湛江, ISP: 移动, Date: None, Delay: 10298 ms, Speed: 0.02 M/s, Resolution: None
-Name: 浙江卫视, URL: http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 1569 ms, Speed: 0.44 M/s, Resolution: 1920x1080
-Name: 浙江卫视, URL: http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 573 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 东方卫视, URL: http://1b6467f415.iok.la:9931/tsfile/live/1061_1.m3u8, IPv_Type: ipv4, Location: 中国-广东, ISP: 移动, Date: None, Delay: 10647 ms, Speed: 0.01 M/s, Resolution: None
-Name: 内蒙古卫视, URL: https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 2151 ms, Speed: 0.85 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://112.46.85.60:8009/hls/4/index.m3u8, IPv_Type: ipv4, Location: 中国-陕西-咸阳, ISP: 移动, Date: None, Delay: 10176 ms, Speed: 0.08 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 1957 ms, Speed: 1.09 M/s, Resolution: 1920x1080
+Name: CETV1, URL: http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv, IPv_Type: ipv4, Location: 中国-广东-湛江, ISP: 移动, Date: None, Delay: 10777 ms, Speed: 0.03 M/s, Resolution: None
+Name: 浙江卫视, URL: http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 1587 ms, Speed: 0.43 M/s, Resolution: 1920x1080
+Name: 东南卫视, URL: http://1b6467f415.iok.la:9931/tsfile/live/1075_1.m3u8, IPv_Type: ipv4, Location: 中国-广东, ISP: 移动, Date: None, Delay: 10661 ms, Speed: 0.00 M/s, Resolution: None
+Name: 内蒙古卫视, URL: https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8, IPv_Type: ipv4, Location: 中国-陕西, ISP: 移动, Date: None, Delay: 2081 ms, Speed: 0.83 M/s, Resolution: 1920x1080
